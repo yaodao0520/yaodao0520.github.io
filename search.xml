@@ -8,7 +8,7 @@
       <link href="/undefined/%E6%B5%8B%E8%AF%95%E4%B8%80/"/>
       <url>/undefined/%E6%B5%8B%E8%AF%95%E4%B8%80/</url>
       
-        <content type="html"><![CDATA[<div class="video-container">[https://youtube.com/shorts/5w83NKPpF5w?si=uE2jTPPDkQsdHI1w]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<div class="video-container">[<iframe width="560" height="315" src="https://www.youtube.com/embed/5w83NKPpF5w?si=U-Ce99ynattQgAaJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       <categories>
