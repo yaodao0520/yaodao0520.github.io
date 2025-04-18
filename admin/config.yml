@@ -1,0 +1,36 @@
+backend:
+  name: github
+  repo: yaodao0520/yaodao0520.github.io # 替换为用户的GitHub仓库
+  branch: main # 用户的默认分支
+  base_url: https://[OAuth应用域名] # 将配置GitHub OAuth应用
+
+media_folder: source/images
+public_folder: /images
+
+collections:
+  - name: "posts"
+    label: "文章"
+    folder: "source/_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "发布日期", name: "date", widget: "datetime"}
+      - {label: "更新日期", name: "updated", widget: "datetime", required: false}
+      - {label: "标签", name: "tags", widget: "list", required: false}
+      - {label: "分类", name: "categories", widget: "list", required: false}
+      - {label: "关键词", name: "keywords", widget: "list", required: false}
+      - {label: "描述", name: "description", widget: "text", required: false}
+      - {label: "置顶", name: "top", widget: "boolean", default: false, required: false}
+      - {label: "封面图", name: "cover", widget: "image", required: false}
+      - {label: "内容", name: "body", widget: "markdown"}
+  
+  - name: "pages"
+    label: "页面"
+    folder: "source"
+    create: true
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "类型", name: "type", widget: "string", required: false}
+      - {label: "内容", name: "body", widget: "markdown"}
