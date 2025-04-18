@@ -3,7 +3,7 @@ name: Deploy Blog
 on:
   push:
     branches:
-      - main  # 用户的默认分支
+      - main
 
 jobs:
   build-and-deploy:
@@ -17,8 +17,13 @@ jobs:
         with:
           node-version: '16'
           
+      - name: Debug package.json
+        run: cat package.json
+
       - name: Install Dependencies
-        run: npm install
+        run: |
+          npm cache clean --force
+          npm install
         
       - name: Build
         run: npm run build
@@ -28,4 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch:  main  # 或者用户配置的部署分支
+          publish_branch: main
