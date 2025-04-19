@@ -13,7 +13,7 @@ jobs:
       - name: Checkout blog source
         uses: actions/checkout@v3
         with:
-          path: blog
+          path: ./
 
       - name: Set up Node.js
         uses: actions/setup-node@v1
@@ -30,20 +30,20 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./blog
+        working-directory: ./
 
       - name: Install Hexo CLI
         run: npm install -g hexo-cli
-        working-directory: ./blog
+        working-directory: ./
 
       - name: Generate static pages
         run: hexo generate
-        working-directory: ./blog
+        working-directory: ./
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./blog/public
+          publish_dir: ./public
           external_repository: yaodao0520/yaodao0520.github.io # 更改为你的 GitHub Pages 仓库, username 是你的用户名
           publish_branch: main # GitHub Pages 分支
