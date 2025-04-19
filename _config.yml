@@ -104,4 +104,4 @@ theme: anzhiyu
 deploy:
   type: git
   repository: git@github.com:yaodao0520/yaodao0520.github.io.git
-  branch: main
+  branch: hex
