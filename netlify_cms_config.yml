@@ -1,0 +1,32 @@
+backend:
+  name: github
+  repo: yaodao0520/yaodao0520.github.io
+  branch: main
+  base_url: https://api.netlify.com
+
+media_folder: source/images
+public_folder: /images
+
+collections:
+  - name: "post"
+    label: "文章"
+    folder: "source/_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "发布日期", name: "date", widget: "datetime"}
+      - {label: "更新日期", name: "updated", widget: "datetime"}
+      - {label: "标签", name: "tags", widget: "list"}
+      - {label: "分类", name: "categories", widget: "list"}
+      - {label: "内容", name: "body", widget: "markdown"}
+  
+  - name: "page"
+    label: "页面"
+    folder: "source"
+    create: true
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "类型", name: "type", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
