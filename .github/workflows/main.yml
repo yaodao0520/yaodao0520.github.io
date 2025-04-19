@@ -43,6 +43,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
+          external_repository: yaodao0520/yaodao0520.github.io # 更改为你的 GitHub Pages 仓库，username 是你的用户名
           publish_branch: main # GitHub Pages 分支
