@@ -22,8 +22,8 @@
   let summaryID = null;
 
   const post_ai = document.querySelector(".post-ai-description");
-  const aiTitleRefreshIcon = post_ai.querySelector(".ai-title .yaodaofont.yaodao-icon-arrow-rotate-right");
-  let aiReadAloudIcon = post_ai.querySelector(".yaodao-icon-circle-dot");
+  const aiTitleRefreshIcon = post_ai.querySelector(".ai-title .anzhiyufont.anzhiyu-icon-arrow-rotate-right");
+  let aiReadAloudIcon = post_ai.querySelector(".anzhiyu-icon-circle-dot");
   const explanation = post_ai.querySelector(".ai-explanation");
 
   let aiStr = "";
