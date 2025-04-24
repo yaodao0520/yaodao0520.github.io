@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>NekoBox</title>
+      <link href="/undefined/NekoBox/"/>
+      <url>/undefined/NekoBox/</url>
+      
+        <content type="html"><![CDATA[<p>核心功能<br>多协议支持</p><p>支持 Shadowsocks、VMess、VLESS、Trojan、WireGuard 等协议，并几乎涵盖所有 sing-box 功能模块，满足复杂网络环境需求Android Apps on Google Play。</p><p>提供多种订阅格式管理（Shadowsocks、Clash、v2rayN），可一键导入订阅链接，自动更新节点列表Uptodown。</p><p>路由与 DNS</p><p>内置自定义路由规则，可按域名、IP 段或地理位置分流，灵活配置直连或代理策略hiddify.com。</p><p>支持“系统 DNS 直连”与“自定义 DNS（DoT&#x2F;DoH）”选项，确保在特殊网络环境下仍能稳定解析域名hiddify.com。</p><p>用户体验</p><p>采用 Material Design 风格，主要界面分为“节点”、“订阅”、“设置”三大模块，操作路径清晰，老用户也能快速上手Android Apps on Google Play。</p><p>支持后台常驻通知栏快速切换节点、启动&#x2F;停止服务，以及实时显示流量统计与连接状态apt.izzysoft.de。<br><img src="https://5f4480c.webp.li/2025/04/cc7770584fd3d54d92c09a4a22f725ea.png" ></p><p>使用指南</p><p>下载安装</p><p>推荐从官方 GitHub Releases 下载最新版 APK，或通过 F-Droid 安装，以获取原生开源版本；尽量避免使用已被第三方篡改的 Google Play 版本GitHubapt.izzysoft.de。</p><p>基本配置</p><p>首次启动需授权 VPN 建立权限与存储读写权限。</p><p>在“订阅”页面添加您的服务商订阅链接，应用会自动下载并解析节点列表Uptodown。</p><p>在“节点”页面选择任意节点并点击“启动”，即可在全局或分应用层面生效代理Android Apps on Google Play。</p><p>进阶设置</p><p>在“路由”中自定义分流规则，支持黑白名单与 GeoIP 分流。</p><p>在“高级”里调整 TLS 版本、并发连接数、MTU 参数等，以适配不同网络环境与设备性能hiddify.com。<br><img src="https://5f4480c.webp.li/2025/04/ceec5b28fb2809cef8879d475b6bb69a.png" ></p><p>技术参数</p><p>项目<br><br>说明</p><p>当前版本<br><br>4.0.1（含 sing-box 版本提示）</p><p>包体大小<br><br>约 10 MB</p><p>系统要求<br><br>Android 5.0（API 21）及以上</p><p>协议支持<br><br>Shadowsocks、VMess、VLESS、Trojan、WireGuard</p><p>订阅格式<br><br>SS, Clash, v2rayN</p><p>模块依赖<br><br>sing-box 核心库</p><p>开发语言<br><br>Kotlin</p><p>源码地址<br><a href="https://github.com/MatsuriDayo/NekoBoxForAndroid">https://github.com/MatsuriDayo/NekoBoxForAndroid</a><br>安全与隐私</p><p>开源透明：核心功能依赖 sing-box 开源项目，用户可自行审计源码GitHub。</p><p>权限最小化：仅申请 VPN 建立、网络、存储读写等必要权限，无额外埋点或广告 SDK。</p><p>数据本地化：所有节点配置与日志均保存在本地，不上传至任何服务器，保障隐私安全。</p><p>典型场景</p><p>跨地域加速：在海外网络环境中，利用高速节点访问国内服务或游戏。</p><p>隐私保护：公共 Wi-Fi 下，通过加密隧道防止数据抓包。</p><p>分应用代理：仅对指定应用启用代理，其他流量直连，提高访问速度。</p><p>开发测试：后端开发者可在移动端模拟不同网络环境，调试 API 接口连通性。</p><p>通过对多协议的全面支持、灵活的路由与 DNS 配置，以及简洁易用的界面设计，NekoBox 为 Android 用户提供了一款功能强大且安全可靠的代理管理工具。无论是网络加速、隐私防护，还是应用分流与自定义需求，皆可在 NekoBox 中找到相应解决方案。<br><img src="https://5f4480c.webp.li/2025/04/502d1d704c987e4d1bc1af107459137b.png" ></p><p>复制到浏览器即可下载</p><p>123云：<a href="https://www.123684.com/s/4uQQjv-8KalA%E6%8F%90%E5%8F%96%E7%A0%81:fF9h">https://www.123684.com/s/4uQQjv-8KalA提取码:fF9h</a></p><p>百度云：<a href="https://pan.baidu.com/s/1Qnp_j_s_WmROhIT-NtYllA?pwd=fhre">https://pan.baidu.com/s/1Qnp_j_s_WmROhIT-NtYllA?pwd=fhre</a> 提取码: fhre</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 代理工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 代理工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>软件仓库</title>
       <link href="/undefined/%E8%BD%AF%E4%BB%B6%E4%BB%93%E5%BA%93/"/>
       <url>/undefined/%E8%BD%AF%E4%BB%B6%E4%BB%93%E5%BA%93/</url>
