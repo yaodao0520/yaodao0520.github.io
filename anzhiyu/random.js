@@ -1,3 +1,3 @@
-var posts=["undefined/回归-时隔180天，我们归来并全新上线！/","undefined/关站/","undefined/查看是否本地同步/","undefined/免费听歌网站/","undefined/追剧网站二次更新/","undefined/免费追剧/","undefined/Telegram/","undefined/扫描全能王/","undefined/速搜视频/","undefined/clash-meta/","undefined/Karing/","undefined/免费节点/","undefined/一席/","undefined/主播视频/","undefined/Spotify/","undefined/笔趣书阁/","undefined/大师兄影视/","undefined/NekoBox/","undefined/软件仓库/","undefined/学习网站/"];function toRandomPost(){
+var posts=["undefined/回归-时隔180天，我们归来并全新上线！/","undefined/关站/","undefined/免费听歌网站/","undefined/追剧网站二次更新/","undefined/免费追剧/","undefined/Telegram/","undefined/扫描全能王/","undefined/速搜视频/","undefined/clash-meta/","undefined/Karing/","undefined/免费节点/","undefined/一席/","undefined/主播视频/","undefined/Spotify/","undefined/笔趣书阁/","undefined/大师兄影视/","undefined/NekoBox/","undefined/软件仓库/","undefined/学习网站/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
