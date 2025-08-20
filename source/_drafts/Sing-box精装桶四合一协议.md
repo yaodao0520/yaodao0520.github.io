@@ -59,4 +59,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.
 
 <img src="https://5f4480c.webp.li/2025/08/7bfb621d0e963e1e0a45a2ff2eb80ff2.png" >
 
-注明信息来源于:https://github.com/yonggekkk
+注明信息来源于:[勇哥侃侃侃](https://github.com/yonggekkk)
