@@ -12,7 +12,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://5f4480c.webp.li/2025/04/504da1f86fa6d6e00a2628cef0b3761c.jpg
+cover: https://5f4480c.webp.li/2025/09/3f0e807cf7a2b0c5028b624f18e6cc68.png
 date: '2025-09-05T16:30:56.345328+08:00'
 description: null
 highlight_shrink: null
