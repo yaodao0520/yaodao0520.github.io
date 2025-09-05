@@ -29,7 +29,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: null
-updated: '2025-09-05T16:38:22.570+08:00'
+updated: '2025-09-05T17:38:34.849+08:00'
 ---
 Nrfr 是一款强大的卡SIM国家码修改工具，无需Root权限即可修改SIM卡国家码。本项目完全基于Android系统原生API实现，不依赖Xposed、Magisk等任何第三方框架，仅通过调用系统级修改国家码接口实现功能。通过调用系统级修改国家码接口实现功能，您可以：
 
@@ -173,6 +173,4 @@ cd app
 
 * 快速启动工具：`nrfr-client/build/bin/`
 * 安卓应用：`app/build/outputs/apk/`
-  信息来源于[github]([https://github.com/Ackites/Nrfr?tab=readme-ov-file)
-
-https://github.com/Ackites/Nrfr?tab=readme-ov-file
+  信息来源于[github](https://github.com/Ackites/Nrfr?tab=readme-ov-file)
