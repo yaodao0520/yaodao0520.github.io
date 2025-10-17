@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>开源导航站Nav</title>
+      <link href="/undefined/%E5%BC%80%E6%BA%90%E5%AF%BC%E8%88%AA%E7%AB%99Nav/"/>
+      <url>/undefined/%E5%BC%80%E6%BA%90%E5%AF%BC%E8%88%AA%E7%AB%99Nav/</url>
+      
+        <content type="html"><![CDATA[<h3 id="2025手把手教你0代码搭建最热开源导航站Nav，GitHub-Vercel部署，无需服务器！！"><a href="#2025手把手教你0代码搭建最热开源导航站Nav，GitHub-Vercel部署，无需服务器！！" class="headerlink" title="2025手把手教你0代码搭建最热开源导航站Nav，GitHub+Vercel部署，无需服务器！！"></a>2025手把手教你0代码搭建最热开源导航站Nav，GitHub+Vercel部署，无需服务器！！</h3><p><strong>前期准备：</strong></p><p>1、<a href="https://github.com/">GitHub</a></p><p>2、<a href="https://vercel.com/">Vercel</a></p><p><strong>部署步骤：</strong></p><p>1、<a href="https://github.com/xjh22222228/nav">访问大佬的项目</a>，Fork一下</p><img src="https://5f4480c.webp.li/2025/10/59af2b9a8df49553ff5b2a7cb536102d.png" ><img src="https://5f4480c.webp.li/2025/10/59af2b9a8df49553ff5b2a7cb536102d.png" ><p>2、申请token</p><p><a href="https://github.com/settings/tokens/new">访问</a></p><img src="https://5f4480c.webp.li/2025/10/f5fad1c6a2165556a5e86fb5a1e0108c.png" ><p>选择上面两个就可以，然后点击最下方的Generate token</p><img src="https://5f4480c.webp.li/2025/10/f535cfb315ab2cf10bd9b622474a800d.png" ><p>注意一定保存并且复制到一个地方备用</p><p>3、添加申请的Token</p><p><a href="https://github.com/%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D/nav/settings/secrets/actions/new">https://github.com/你的用户名/nav/settings/secrets/actions/new</a> ，添加申请的 token</p><p>4、修改 nav.config.yaml 文件</p><p>5、打开vercel导入项目</p><p>6、等待部署成功，修改域名</p><p>7、进入后台，修改各种配置！！（但请遵循开源协议，如果要商用请联系原作者获取授权！！！！）</p><p>联系授权：<a href="https://official.nav3.cn/pricing">https://official.nav3.cn/pricing</a></p><p>免责声明：<a href="https://official.nav3.cn/disclaimers">https://official.nav3.cn/disclaimers</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SIM国家码修改工具</title>
       <link href="/undefined/SIM%E5%9B%BD%E5%AE%B6%E7%A0%81%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7/"/>
       <url>/undefined/SIM%E5%9B%BD%E5%AE%B6%E7%A0%81%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7/</url>
