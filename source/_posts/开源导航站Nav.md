@@ -29,7 +29,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: null
-updated: '2025-10-17T16:02:12.635+08:00'
+updated: '2025-10-17T16:20:20.110+08:00'
 ---
 ### 2025手把手教你0代码搭建最热开源导航站Nav，GitHub+Vercel部署，无需服务器！！
 
