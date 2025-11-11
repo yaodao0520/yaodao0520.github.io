@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>VPS搭建科学上网脚本</title>
+      <link href="/undefined/sing%20box%E8%84%9A%E6%9C%AC/"/>
+      <url>/undefined/sing%20box%E8%84%9A%E6%9C%AC/</url>
+      
+        <content type="html"><![CDATA[<p>各种VPS、小鸡的搭建脚本</p><p>&#x2F;&#x2F;有端口需要开端口<br>安装前准备 apk add bash wget</p><p>使用涌哥脚本（<a href="https://github.com/yonggekkk/sing-box-yg%EF%BC%89">https://github.com/yonggekkk/sing-box-yg）</a></p><p>输入命令：bash &lt;(wget -qO- <a href="https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh">https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh</a>)<br>输入命令2：bash &lt;(curl -Ls <a href="https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh">https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh</a>)<br>&#x2F;&#x2F;老王sing box 四合一</p><p>bash &lt;(curl -Ls <a href="https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh">https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh</a>)</p><p>&#x2F;&#x2F;前两个节点使用tcp端口协议，后面两个节点使用udp端口协议</p><p>三网回程路由检测脚本！<br>curl <a href="https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh">https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh</a> -sSf | sh</p><p>开启BBR加速<br>bash &lt;(curl -Lso- <a href="https://github.com/teddysun/across/raw/master/bbr.sh">https://github.com/teddysun/across/raw/master/bbr.sh</a>)</p><p>IP质量检测<br>bash &lt;(curl -Ls IP.Check.Place)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vpn </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vpn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>十大顶流网站</title>
       <link href="/undefined/%E5%8D%81%E5%A4%A7%E9%A1%B6%E6%B5%81%E7%BD%91%E7%AB%99/"/>
       <url>/undefined/%E5%8D%81%E5%A4%A7%E9%A1%B6%E6%B5%81%E7%BD%91%E7%AB%99/</url>
